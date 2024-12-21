@@ -9,5 +9,4 @@ envs/.env
 .DS_Store
 
 .coverage
-build/*
-!build/.gitkeep
+docs/build/*
